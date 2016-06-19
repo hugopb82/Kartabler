@@ -1,7 +1,7 @@
 # Kartabler
 A simple distraction-free reading function for kartable.com
 ## Installation
-Just drag this link : [Kartabler][javascript: (function () { var js = document.createElement('script'); js.setAttribute('src', 'https://raw.githubusercontent.com/hugopb82/Kartabler/master/kartabler.js'); document.body.appendChild(js); }());] into your bookmarks bar! Easy no?
+Just drag this link : [Kartabler](javascript: %28function+%28%29+%7B+var+js+%3D+document.createElement%28%27script%27%29%3B+js.setAttribute%28%27src%27%2C+%27https%3A%2F%2Fraw.githubusercontent.com%2Fhugopb82%2FKartabler%2Fmaster%2Fkartabler.js%27%29%3B+document.body.appendChild%28js%29%3B+%7D%28%29%29%3B) into your bookmarks bar! Easy no?
 ## Usage
 Go to any page of kartable.com and click the bookmark you added previously. A new window with your content pops up! You can now read it, download it in HTML format (ctrl + s) or print it!
 ## Disclaimer 
