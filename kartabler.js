@@ -1,4 +1,3 @@
-alert('ed');
 (function(){
 	var content = document.querySelector('#document .scroll-content').innerHTML;
 
